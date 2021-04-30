@@ -1,5 +1,3 @@
-<script src="./assets/js/idb.js"></script>
-
 let transactions = [];
 let myChart;
 
